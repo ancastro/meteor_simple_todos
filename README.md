@@ -76,6 +76,7 @@ tasks: function () {
 ```
 
 ##Console:
+Make sure the meteor server is running and open a new tab go to your project folder and type
 ```js
 meteor mongo
 ```
